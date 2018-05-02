@@ -1,0 +1,22 @@
+{
+  "materialId" : 17701,
+  "materialName" : "testpipe",
+  "particleColor" : [128, 128, 0, 255],
+  "itemDrop" : "testpipe",
+  "shortdescription" : "Test Pipe",
+  "description" : "Test pipe.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 1.5,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/testpipe.config",
+  "renderParameters" : {
+    "texture" : "testpipe.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 3350
+  }
+}

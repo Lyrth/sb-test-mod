@@ -1,0 +1,11 @@
+{
+  "itemName" : "testpipe",
+  "price" : 0,
+  "category" : "storage",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "testpipe.png",
+  "shortdescription" : "Test Pipe",
+  "description" : "Test pipe.",
+
+  "materialId" : 17701
+}

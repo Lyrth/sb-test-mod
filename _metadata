@@ -1,0 +1,9 @@
+{
+  "version" : "0.1",
+  "author" : "Lyrth",
+  "description" : "Test.",
+  "requires" : [],
+  "name" : "Test",
+  "friendlyName" : "Test",
+  "includes" : []
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item": "money", "count": 1 }
+  ],
+  "output" : {
+    "item" : "testpipe",
+    "count" : 40
+  },
+  "duration" : 0.5,
+  "groups"  : [ "plain", "storage", "all" ]
+}
