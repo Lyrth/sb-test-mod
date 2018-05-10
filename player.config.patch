@@ -1,5 +1,7 @@
 [
-    { "op": "add",
-    "path": "/defaultBlueprints/tier1/-",
-    "value": { "item" : "testpipe" } }
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": { "item" : "testpipe" }
+    }
 ]
